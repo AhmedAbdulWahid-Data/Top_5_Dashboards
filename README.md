@@ -40,7 +40,7 @@ Welcome to my **Dashboard Collection**! This project showcases five distinct das
 - Custom filters for department-specific KPI views.  
 
 ## 🛠️ Tools and Technologies  
-- **Visualization Tool**: Tableau  
+- **Visualization Tool**: Tableau & Excel  
 - **Data Source**: CSV files (e.g., sales data, HR records, operational logs)  
 - **Special Features**:  
   - Custom calculations and filters.  
