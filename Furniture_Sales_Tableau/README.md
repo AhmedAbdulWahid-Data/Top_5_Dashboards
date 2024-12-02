@@ -4,7 +4,7 @@ Overview
 
 These dashboards were developed in Tableau to provide insightful analytics on sales performance and customer behavior. They are designed for sales managers and executives to quickly understand key performance metrics, identify trends, and optimize decision-making. The dashboards include interactive elements for deeper data exploration.
 
-
+---
 
 
 https://github.com/user-attachments/assets/67647890-d43f-44e1-826e-0e35cba030da
