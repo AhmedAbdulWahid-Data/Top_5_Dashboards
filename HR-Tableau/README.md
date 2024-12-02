@@ -3,7 +3,7 @@
 ## Project Overview
 The **HR Dashboard** helps HR managers make better decisions by providing easy-to-understand data visualizations and insights about employees using **Tableau**. It offers both high-level summaries and detailed employee information to support strategic planning and workforce management.
 
-
+---
 
 https://github.com/user-attachments/assets/d214913c-b25e-4317-84fc-1b63c41f892e
 
