@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 **📊 Revolutionize Amazon’s business strategy!** This **Tableau Dashboard** delivers key insights that drive profitability and operational excellence. By visualizing critical metrics—like revenue trends, profit drivers, and shipping performance—this dashboard empowers data-driven decisions that maximize growth, streamline operations, and boost competitive advantage. Transforming data into action, it showcases the analytical expertise needed to unlock value for any organization. 🚀✨
-
+---
 
 
 https://github.com/user-attachments/assets/66c865b0-a9ba-4d70-aa7a-847873d704b1
