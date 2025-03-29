@@ -11,35 +11,35 @@ Welcome to my **Dashboard Collection**! This project showcases five distinct das
 
 ## 📋 Overview  
 
-### 1. **Amazon Dashboard**  
+### 1. [**Amazon Dashboard**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards/tree/main/E-Commerce_Amazon_Tableau) 
 **Purpose**: Analyze Amazon's sales and operations to understand performance trends and identify growth opportunities.  
 **Features**:  
 - Total revenue, profit, and units sold visualized clearly.  
 - Interactive bar and map charts to compare profits by region and country.  
 - Shipping days analysis to optimize delivery efficiency.  
 
-### 2. **Airbnb Dashboard**  
+### 2. [**Airbnb Dashboard**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards/tree/main/Hospitality_Airbnb_Tableau)
 **Purpose**: Monitor Airbnb listings and bookings to uncover patterns in property performance.  
 **Features**:  
 - Occupancy rates and revenue trends by property type.  
 - Dynamic heatmaps to track bookings by location.  
 - Seasonality analysis to forecast demand spikes.  
 
-### 3. **HR Dashboard**  
+### 3. [**HR Dashboard**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards/tree/main/HR-Tableau)
 **Purpose**: Provide an overview of employee performance, retention, and HR metrics.  
 **Features**:  
 - Employee demographics, turnover rates, and satisfaction scores.  
 - Interactive charts for tracking hiring trends and department-wise insights.  
 - KPIs for employee retention and productivity.  
 
-### 4. **Furniture Sales Dashboard**  
+### 4. [**Furniture Sales Dashboard**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards/tree/main/Furniture_Sales_Tableau)  
 **Purpose**: Evaluate furniture sales performance across regions and product categories.  
 **Features**:  
 - Diverging bar charts for revenue vs. costs by item category.  
 - Profit and orders visualized by product to highlight bestsellers.  
 - Time-series trends to monitor revenue growth over time.  
 
-### 5. **KPI Tracking Dashboard**  
+### 5. [**KPI Tracking Dashboard**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards/tree/main/KPIS-Excel)  
 **Purpose**: Track key performance indicators (KPIs) for business operations and strategy execution.  
 **Features**:  
 - Real-time KPI metrics like revenue, customer satisfaction, and project timelines.  
