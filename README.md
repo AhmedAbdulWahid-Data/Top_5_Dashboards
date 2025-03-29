@@ -2,6 +2,13 @@
 
 Welcome to my **Dashboard Collection**! This project showcases five distinct dashboards, each designed to analyze specific industries or metrics, offering actionable insights to support decision-making.  
 
+
+# You can download my guide on Data VIZ 👉 [Here! 📂](https://github.com/user-attachments/files/19522178/10.Rules.for.Your.Visualizations.pdf)
+
+# Top 10 books on Data VIZ 👉 [Here! 📂](https://github.com/user-attachments/files/19522181/Data.Viz.Books.pdf)
+
+ 
+
 ## 📋 Overview  
 
 ### 1. **Amazon Dashboard**  
